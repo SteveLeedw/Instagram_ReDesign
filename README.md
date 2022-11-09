@@ -1,4 +1,4 @@
-# Instagram_ReDesign
+# web_Instagram_ReDesign
 
 This template is Instagram redesign about my style. So I picked BTS concept, and then that form looks like BTS instagram page.
 
